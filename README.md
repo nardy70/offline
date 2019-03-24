@@ -1,1 +1,1 @@
-# sinergia
+# offline page
